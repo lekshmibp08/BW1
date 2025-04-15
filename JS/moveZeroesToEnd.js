@@ -14,3 +14,7 @@ function moveZero(arr) {
 let arr = [1,2,0,7,8,9,10,0,8]
 console.log(moveZero(arr));;
 // [1, 2, 7, 8, 9, 10, 8, 0, 0]
+
+
+
+
